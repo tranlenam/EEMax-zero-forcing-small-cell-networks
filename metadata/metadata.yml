@@ -1,0 +1,21 @@
+metadata_version: 1
+name: Energy-Efficient Zero-Forcing Precoding Design for Small-cell Networks
+description: Simulation code for "Energy-Efficient Zero-Forcing Precoding Design for
+  Small-cell Networks," IEEE Trans. Commun., vol. 64, no. 2, pp. 790-804, Feb. 2016
+  by Quang-Doanh Vu, Le-Nam Tran, Ronan Farrell, and Een-Kee Hong.
+authors:
+- name: Quang-Doanh Vu
+  affiliations:
+  - name: University of Oulu
+- name: Le-Nam Tran
+  affiliations:
+  - name: University College Dublin
+- name: Ronan Rarrell
+  affiliations:
+  - name: Maynooth University
+- name: Een-Kee Hong
+  affiliations:
+  - name: Kyung Hee University
+corresponding_contributor:
+  name: nam.tran@ucd.ie
+  email: nam.tran@ucd.ie
